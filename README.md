@@ -1,5 +1,3 @@
-# Switch to Node version 20 before running any loopback cli commands.
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
